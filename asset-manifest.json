@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cm-diseno/static/css/main.5ef278fb.css",
+    "main.css": "/cm-diseno/static/css/main.0f36f525.css",
     "main.js": "/cm-diseno/static/js/main.953d4369.js",
     "static/media/publicidad.jpg": "/cm-diseno/static/media/publicidad.3bbd41e188306e5b606d.jpg",
     "static/media/fondopanel.png": "/cm-diseno/static/media/fondopanel.acea43cca3735f033e9e.png",
@@ -44,11 +44,11 @@
     "static/media/fondoblanco.jpg": "/cm-diseno/static/media/fondoblanco.99f392691722c40e9465.jpg",
     "static/media/trabajos.jpg": "/cm-diseno/static/media/trabajos.f0f0645b85b00bea5eca.jpg",
     "index.html": "/cm-diseno/index.html",
-    "main.5ef278fb.css.map": "/cm-diseno/static/css/main.5ef278fb.css.map",
+    "main.0f36f525.css.map": "/cm-diseno/static/css/main.0f36f525.css.map",
     "main.953d4369.js.map": "/cm-diseno/static/js/main.953d4369.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ef278fb.css",
+    "static/css/main.0f36f525.css",
     "static/js/main.953d4369.js"
   ]
 }
